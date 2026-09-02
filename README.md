@@ -1,25 +1,66 @@
+# 🍕 Pizza Sales Analysis | SQL & Power BI
 
-# Pizza Sales Analysis using Power Bi and SQL
+## 📌 Project Overview
 
-●	Data Collection and Organization using SQL.
+This project analyzes pizza sales data to uncover key business insights related to revenue, order patterns, product performance, pizza categories, sizes, and customer purchasing trends.
 
-●	Calculated various KPIs like Total Orders, Total Revenue, Total Sales, Average Order Value, etc. using SQL Server Management Studio (SSMS) and created a Report for the same.
+The project combines **SQL Server** for business analysis with **Power BI** for interactive data visualization. SQL was used to calculate KPIs and answer business questions, while Power BI was used to transform the analytical results into an interactive two-page sales dashboard.
 
-●	Power BI to SQL connectivity.
+---
 
-●	Created Interactive Dashboard using Microsoft Power BI.
+## 🎯 Business Objective
 
-●	Sales Performance, Revenue and Product Analysis.
+The objective of this project is to analyze transactional pizza sales data and identify patterns that can support better sales and product decisions.
 
-●	Analyzed Order Patterns.
+The analysis focuses on questions such as:
 
+- What are the overall revenue and order performance?
+- Which days and months generate the highest order volumes?
+- Which pizza categories contribute the most to sales?
+- Which pizza sizes generate the largest share of revenue?
+- Which pizzas are the strongest performers by revenue, quantity, and orders?
+- Which pizzas consistently underperform?
+- What purchasing patterns can be identified from the sales data?
 
-## Documentation
+---
 
-[Project Report](https://drive.google.com/file/d/1kc2qmqF9wagmmS6jcFu4DywJaaNkcDVz/view?usp=sharing)
+## 📊 Key Performance Indicators
 
+| KPI | Result |
+|---|---:|
+| **Total Revenue** | **817.86K** |
+| **Average Order Value** | **38.31** |
+| **Total Pizzas Sold** | **49,574** |
+| **Total Orders** | **21,350** |
+| **Average Pizzas per Order** | **2.32** |
 
-## Demo
+---
 
-https://drive.google.com/file/d/15fl_C-jv3NGEGu2pn9S8IYnz6AXfaH-R/view?usp=sharing
+## 🛠️ Tech Stack
 
+| Technology | Purpose |
+|---|---|
+| **SQL Server** | Data querying and business analysis |
+| **SSMS** | Writing and executing SQL queries |
+| **Power BI** | Interactive dashboard development |
+| **Power Query** | Data preparation and transformation |
+| **DAX** | KPI calculations and dashboard measures |
+
+---
+
+## 🔄 Analysis Workflow
+
+```text
+Pizza Sales Dataset
+        ↓
+Data Preparation
+        ↓
+SQL Server Analysis
+        ↓
+KPI Calculation
+        ↓
+Sales & Product Analysis
+        ↓
+Power BI Dashboard
+        ↓
+Business Insights
