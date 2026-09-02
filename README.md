@@ -141,3 +141,20 @@ Both the **Top 5** and **Bottom 5** pizzas were analyzed to identify high-perfor
   - Total orders
 
 This suggests that the product consistently underperformed compared with the rest of the pizza portfolio.
+---
+
+## 📊 Power BI Dashboard
+
+The analysis was transformed into a two-page interactive Power BI dashboard designed to provide a clear view of overall sales performance and individual product performance.
+
+### 🏠 Sales Overview
+
+![Pizza Sales Overview Dashboard](images/PIZZA-SALES-OVERVIEW.png)
+
+The overview page provides a consolidated view of the major KPIs, daily and monthly order trends, category performance, pizza-size contribution, and total pizzas sold by category.
+
+### ⭐ Best & Worst Sellers
+
+![Best and Worst Sellers Dashboard](images/PIZZA-BEST-WORST-SELLERS.png)
+
+The product-performance page compares the **Top 5 and Bottom 5 pizzas** based on revenue, quantity sold, and total orders, making it easier to identify the strongest and weakest products in the portfolio.
