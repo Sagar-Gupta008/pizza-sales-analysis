@@ -169,8 +169,8 @@ pizza-sales-analysis/
 │   ├── PIZZA-SALES-OVERVIEW.png
 │   └── PIZZA-BEST-WORST-SELLERS.png
 │
-├── Pizza Sales Dashboard.pdf
-├── Report.pdf
+├── sql_analysis_report.pdf
+├── pizza_sales_dashboard.pdf
 ├── pizza_sales.csv
 └── README.md
 ```
@@ -191,8 +191,8 @@ pizza-sales-analysis/
 
 ## ▶️ How to Explore the Project
 
-1. Review **`Report.pdf`** to explore the SQL queries used for KPI, trend, category, size, and product analysis.
-2. Open **`Pizza Sales Dashboard.pdf`** to view the complete two-page Power BI dashboard.
+1. Review **`sql_analysis_report.pdf`** to explore the SQL queries used for KPI, trend, category, size, and product analysis.
+2. Open **`pizza_sales_dashboard.pdf`** to view the complete two-page Power BI dashboard.
 3. Explore **`pizza_sales.csv`** to understand the underlying transactional dataset.
 4. Review the key findings and dashboard screenshots summarized in this README.
 
