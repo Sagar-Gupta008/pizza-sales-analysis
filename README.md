@@ -158,3 +158,50 @@ The overview page provides a consolidated view of the major KPIs, daily and mont
 ![Best and Worst Sellers Dashboard](images/PIZZA-BEST-WORST-SELLERS.png)
 
 The product-performance page compares the **Top 5 and Bottom 5 pizzas** based on revenue, quantity sold, and total orders, making it easier to identify the strongest and weakest products in the portfolio.
+---
+
+## 📂 Repository Structure
+
+```text
+pizza-sales-analysis/
+│
+├── images/
+│   ├── PIZZA-SALES-OVERVIEW.png
+│   └── PIZZA-BEST-WORST-SELLERS.png
+│
+├── Pizza Sales Dashboard.pdf
+├── Report.pdf
+├── pizza_sales.csv
+└── README.md
+```
+---
+
+## 💼 Skills Demonstrated
+
+- Writing SQL queries to answer business questions
+- Calculating business KPIs using SQL
+- Analyzing daily and monthly sales trends
+- Performing product, category, and size-level analysis
+- Identifying best-selling and underperforming products
+- Using aggregations, subqueries, grouping, and ranking logic in SQL
+- Building interactive dashboards in Power BI
+- Designing KPI cards and business-focused visualizations
+- Translating transactional sales data into actionable business insights
+---
+
+## ▶️ How to Explore the Project
+
+1. Review **`Report.pdf`** to explore the SQL queries used for KPI, trend, category, size, and product analysis.
+2. Open **`Pizza Sales Dashboard.pdf`** to view the complete two-page Power BI dashboard.
+3. Explore **`pizza_sales.csv`** to understand the underlying transactional dataset.
+4. Review the key findings and dashboard screenshots summarized in this README.
+
+> **Note:** The dashboard covers pizza sales data from January to December 2015.
+---
+
+## 👤 Author
+
+**Sagar Gupta**  
+Data Analyst | SQL • Power BI • Python • Excel
+
+[LinkedIn](https://www.linkedin.com/in/sagar-gupta087/) • [Portfolio](https://sagar-gupta-data-analyst.framer.website/) • [GitHub](https://github.com/Sagar-Gupta008)
